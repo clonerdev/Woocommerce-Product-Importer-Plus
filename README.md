@@ -1,5 +1,10 @@
 # Woocommerce Product Importer Plus - importing products from different websites to WooCommerce
 
+<div align="center">
+  🇺🇸 [English](README.md) | 🇮🇷 [Persian](README-FA.md)
+</div>
+<br>
+
 An advanced plugin to import products from various websites into WooCommerce with SEO integration and custom database tables.
 
 ## Description
